@@ -1,8 +1,7 @@
-
 INTRODUCTION DU SUJET
     
-    Le but de ce projet est de modéliser l’alternance dative en anglais, et de faire des expériences en variant 
-des paramètres. On s'intéresse à quatre questions posées dans l'article "Predicting the dative alternation" : 
+    Le but de ce projet est de modéliser l’alternance dative en anglais, et de faire des expériences en variant des paramètres. On s'intéresse à quatre questions 
+posées dans l'article "Predicting the dative alternation" : 
 
 Question 1 : Est-ce que les données qu'on analyse sont corrélées ?
 
